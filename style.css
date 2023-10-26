@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    background-image: url(img/world1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.txt1 {
+    text-align: left;
+    color: white;
+    margin-left: 200px;
+}
+
+.txt2 {
+    text-align: left;
+    color: white;
+    margin-left: 900px;
+}
+
+.email-name {
+    text-align: center;
+
+}
+.email-name .name {
+    color: white;
+}
