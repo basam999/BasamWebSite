@@ -31,10 +31,11 @@ body {
 }
 
 .suggestion {
-    background-color: rgba(70, 55, 55, 0);
-    margin-right: 1400px;
+    background-color: white;
+    margin-right: 310px;
 }
 
 .suggestion .suggestiontext {
-    color: black;
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
