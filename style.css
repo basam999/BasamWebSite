@@ -32,7 +32,8 @@ body {
 
 .suggestion {
     background-color: rgb(36, 30, 30);
-    margin-right: 310px;
+    margin-right:  850px;
+    margin-left:400px;
 }
 
 .suggestion .suggestiontext {
