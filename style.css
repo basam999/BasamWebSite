@@ -29,3 +29,15 @@ body {
 .email-name .name {
     color: white;
 }
+
+.suggestion {
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-right: 1400px;
+}
+
+.suggestion .suggestiontext {
+    color: black;
+}
